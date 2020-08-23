@@ -1,9 +1,9 @@
 # Boxes include navigation
 
-- title: Concept2
+- title: Concept
   desc: Découvre OneKrink et sa mission
   icon: cog
-  doc: installation2
+  doc: installation
 
 - title: Formation
   desc: Découvrir les formations sur Paris

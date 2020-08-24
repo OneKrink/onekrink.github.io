@@ -18,5 +18,5 @@ hero:
 {% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %}
 {% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 -->
-{% include cta.html title="Des questions ?" button_text="Nous contacter" button_url="/contact/" subtitle="Contacter nous pour plus de détails sur la communauté, la méthode, les formations" %}
+{% include cta.html title="Des questions ?" button_text="Nous contacter" button_url="/contact/" subtitle="Contactez-nous pour plus de détails sur la méthode, la communauté, les formations" %}
 

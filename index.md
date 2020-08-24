@@ -2,8 +2,8 @@
 layout: page
 width: expand
 hero:
-    title: Souffrances. Appaisées.
-    subtitle: Une communauté de pratique pour une humanité en paix, connectée, empuissancée.
+    title: Appaisées. Empuissancées.
+    subtitle: Une communauté de pratique d'apaisement de ses souffrances.
     image: knowledge.svg
     search: false
 ---

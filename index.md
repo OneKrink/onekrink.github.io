@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: Appaisées. Empuissancées.
+    title: Empuissancées. Appaisées. Libérées.
     subtitle: Une communauté de pratique d'apaisement de ses souffrances.
     image: AdobeStock_288077426_Preview.jpeg
     search: false

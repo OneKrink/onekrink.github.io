@@ -63,7 +63,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Creative Commons BY-NC-SA OneKrink
+    copyright:      OneKrink 2020
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

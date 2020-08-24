@@ -4,7 +4,7 @@ width: expand
 hero:
     title: Appaisées. Empuissancées.
     subtitle: Une communauté de pratique d'apaisement de ses souffrances.
-    image: AdobeStock_201307112_Preview.jpeg
+    image: AdobeStock_324810244_Preview.jpeg
     search: false
 ---
 

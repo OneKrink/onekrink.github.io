@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 
-{% include boxes.html columns="3" title="Rejoins la communauté Krink" subtitle="" %}
+{% include boxes.html columns="3" title="" subtitle='"Changer le monde commence par se changer soi-même" Mondolini' %}
 
 <!---
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}

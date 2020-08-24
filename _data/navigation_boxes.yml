@@ -2,15 +2,15 @@
 
 - title: Méthode
   desc: Découvrir le concept
-  icon: cog
+  icon: social
   doc: installation
 
 - title: Communauté
   desc: Rejoindre la communauté
   icon: code
-  doc: customize
+  doc: happy
 
 - title: Formation
   desc: Me former au Krink
   icon: settings
-  doc: hero
+  doc: play-circle

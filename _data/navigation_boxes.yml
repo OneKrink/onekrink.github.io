@@ -1,16 +1,16 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
+- title: Concept
+  desc: Découvre OneKrink et sa mission
   icon: cog
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
+- title: Formation
+  desc: Découvrir les formations sur Paris
   icon: settings
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
+- title: Communauté
+  desc: Rejiondre la communauté des pratiquant.e.s du Krink
   icon: code
   doc: customize

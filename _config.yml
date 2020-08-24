@@ -6,7 +6,7 @@
 
 # Site title and description
 title:              OneKrink
-description:        Documentation Jekyll theme.
+description:        Changer la relation à la souffrance
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -27,36 +27,16 @@ navbar:
   
 # Default author settings
 author:
-    name:           Pete Seth
-    title:          Lead Developer  
-    avatar:         avatar-tom.png
+    name:           Leïo
+    title:          Founder  
+    avatar:         avatar-leio.jpg
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    john:
-      name:         John Brown
-      title:        Support     
-      avatar:       avatar-john.png
-    evan:
-      name:         Evan Wells
-      title:        Support    
-      avatar:       avatar-evan.png
-    sara:
-      name:         Sara Galen
-      title:        Lead Developer     
-      avatar:       avatar-sara.png
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer     
-      avatar:       avatar-alex.png
-    daniel:
-      name:         Daniel Shultz
-      title:        Developer      
-      avatar:       avatar-daniel.png
-    tom:
-      name:         Tom Farrell
-      title:        Developer     
-      avatar:       avatar-tom.png
+    leio:
+      name:         Leïo
+      title:        Founder     
+      avatar:       avatar-leio.jpg
 
 # Social icons displayed in footer
 social:
@@ -83,14 +63,14 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+    copyright:      Creative Commons BY-NC-SA OneKrink
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
-    shortname:      # 1234
+    shortname:      onekrink
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:
+google_analytics:   UA-176068675-1
 
 # Number of posts displayed on blog page
 paginate:           10

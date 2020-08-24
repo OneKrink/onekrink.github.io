@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 
-{% include boxes.html columns="3" title="" subtitle='"Changer le monde commence par se changer soi-même" Mondolini' %}
+{% include boxes.html columns="3" title='"Commencez par changer en vous ce que voulez changer autour de vous"' subtitle="Gandhi" %}
 
 <!---
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}

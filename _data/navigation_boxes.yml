@@ -1,16 +1,16 @@
 # Boxes include navigation
 
-- title: Concept
-  desc: Découvre OneKrink et sa mission
+- title: Méthode
+  desc: Découvrir le concept
   icon: cog
   doc: installation
 
-- title: Formation
-  desc: Découvrir les formations sur Paris
-  icon: settings
-  doc: hero
-
 - title: Communauté
-  desc: Rejiondre la communauté des pratiquant.e.s du Krink
+  desc: Rejoindre la communauté
   icon: code
   doc: customize
+
+- title: Formation
+  desc: Me former au Krink
+  icon: settings
+  doc: hero

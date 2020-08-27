@@ -11,14 +11,14 @@ left:
 #   - title: Blog
 #     url: /blog/
 
-  - title: Changelogs
-    dropdown:
+#   - title: Changelogs
+#     dropdown:
 
-      - title: Timeline Style
-        url: /changelog-timeline/
+#       - title: Timeline Style
+#         url: /changelog-timeline/
 
-      - title: Post Style
-        url: www.google.com
+#       - title: Post Style
+#         url: /changelog-timeline/
 
 
 # Navbar right menu navigation links

@@ -3,6 +3,7 @@ title: Theme installation
 subtitle: This document covers the setup and options of theme feature described in the doc title
 author: sara
 tags: [setup]
+external_url: http://google.com/
 ---
 
 Install the dependencies with [Bundler](http://bundler.io/):

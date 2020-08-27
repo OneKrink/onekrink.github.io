@@ -8,9 +8,9 @@
 - title: Communauté
   desc: Rejoindre la communauté
   icon: happy
-  doc: happy
+  doc: alerts
 
 - title: Formation
   desc: Me former au Krink
   icon: play-circle
-  doc: play-circle
+  doc: analytics

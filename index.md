@@ -10,7 +10,6 @@ hero:
 
 {% include boxes.html columns="3" title="Krinker : v. Apaiser une souffrance" subtitle="" %}
 
-
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
 
 {% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}

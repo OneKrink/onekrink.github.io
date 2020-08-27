@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 
-{% include boxes.html columns="3" title='Krink : n.m., apaisement d'une souffrance psychologique' subtitle="" %}
+{% include boxes.html columns="3" title='"Commencez par changer en vous ce que voulez changer autour de vous"' subtitle="Gandhi" %}
 
 <!---
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}

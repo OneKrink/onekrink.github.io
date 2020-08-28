@@ -40,18 +40,18 @@ authors:
 
 # Social icons displayed in footer
 social:
-    email:
-    website:
-    facebook:       https://www.facebook.com/
+    email:          contact@krink.org
+    website:        krink.org
+    facebook:       www.facebook.com/krinkparis/
     flickr:
     dribbble:
-    github:
+    github:         https://github.com/OneKrink/Krink
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:
+    vimeo:
     youtube:
 
 # Share button

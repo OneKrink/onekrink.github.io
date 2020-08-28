@@ -3,7 +3,7 @@ title: Adding alerts to content
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 tags: [features]
 author: evan
-external_url: https://www.facebook.com/krinkparis/
+external_url: https://www.facebook.com/groups/778308916236757
 ---
 
 There are four alert styles:

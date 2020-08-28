@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 
-{% include boxes.html columns="3" title="Krinker : vb., Apaiser une souffrance psychologique" subtitle="" %}
+{% include boxes.html columns="3" title="Rejoindre le mouvement &#x1F680;" subtitle="" %}
 <!--
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
 {% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}

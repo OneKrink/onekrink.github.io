@@ -40,9 +40,9 @@ authors:
 
 # Social icons displayed in footer
 social:
-    email:          contact@krink.org
-    website:        krink.org
-    facebook:       www.facebook.com/krinkparis/
+    email:
+    website:
+    facebook:       https://www.facebook.com/krinkparis/
     flickr:
     dribbble:
     github:         https://github.com/OneKrink/Krink
